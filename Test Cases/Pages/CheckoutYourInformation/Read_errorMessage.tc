@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read_errorMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>953c7de8-4f96-4d2f-9242-795e21e75410</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f9d325a-89a5-4882-963b-f81e9e62e13c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8f9d325a-89a5-4882-963b-f81e9e62e13c</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

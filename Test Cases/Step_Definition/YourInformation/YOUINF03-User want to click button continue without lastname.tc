@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>YOUINF03-User want to click button continue without lastname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da217c20-380c-4bbc-a5ac-a7954102d915</testCaseGuid>
+</TestCaseEntity>

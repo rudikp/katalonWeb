@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input_zipCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4c2bb21-c604-45cb-88f9-9e2a2646d4bd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ca6b0d6-cfff-4b8b-84eb-b642979731a9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ca6b0d6-cfff-4b8b-84eb-b642979731a9</id>
+      <masked>false</masked>
+      <name>zipCode</name>
+   </variable>
+</TestCaseEntity>
